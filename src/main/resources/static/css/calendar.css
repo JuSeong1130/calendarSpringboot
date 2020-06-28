@@ -1,0 +1,113 @@
+@charset "UTF-8";
+<style>
+   
+
+
+	#xxxxxx{
+	color:red;
+	}
+
+  #calendar tbody{
+        background: #e1d3f5;
+    } 
+
+    #schedule tbody tr td  {
+        background: #e1d3f5;
+    }
+    #calendar thead tr:first-child td {
+        background: #9147ff;
+        color: #eeeeee;
+    }
+
+    
+    #schedule thead tr td {
+        background: #9147ff;
+        color: #eeeeee;
+    }
+   
+
+
+
+    #z7 {
+        text-align: center;
+        margin-bottom: 13px;
+        font-size: 20px;
+    }
+
+    .sec {
+        float: left;
+        width: 45%;
+        height: 40%;
+    }
+
+    #search {
+        width: 53px;
+        height: 28px;
+    }
+
+    #calendar tr td {
+        width: 50px;
+        height: 50px;
+        padding: 2.3px;
+        cursor: pointer;
+        text-align: center;
+    }
+
+    #schedule tr td {
+
+        width: 100px;
+        text-align: center;
+    }
+
+    #section_right {
+        height: 500px;
+        overflow: auto;
+        margin-left: 10%;
+        width: 35%;
+    }
+
+    .Btn {
+        width: 97px;
+        height: 30px;
+        border: none;
+        background: #9147ffba;
+        margin-right: 13px;
+        color: #eeeeee;
+        border-radius: 5px;
+    }
+
+    #calendar {
+        padding: 2.5px;
+        margin: 0 auto;
+    }
+
+    header {
+        padding-top: 5%;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    section {
+        margin-top: 5%;
+    }
+
+    #section_left {
+        margin-left: 5%;
+    }
+
+    .fcBlue {
+        color: #6498f7
+    }
+
+    .fcRed {
+        color: #f75573
+    }
+
+    #days {
+        margin-left: 38%;
+        margin-top: 3%;
+    }
+</style>
